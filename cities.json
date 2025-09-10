@@ -1,0 +1,136 @@
+[
+  {
+    "il": "Adana",
+    "ilceler": [
+      "Seyhan",
+      "Yüreğir",
+      "Çukurova",
+      "Sarıçam",
+      "Ceyhan",
+      "Kozan",
+      "İmamoğlu",
+      "Karataş",
+      "Feke",
+      "Saimbeyli",
+      "Tufanbeyli",
+      "Pozantı",
+      "Aladağ",
+      "Yumurtalık"
+    ]
+  },
+  {
+    "il": "Adıyaman",
+    "ilceler": [
+      "Merkez",
+      "Kahta",
+      "Besni",
+      "Çelikhan",
+      "Gerger",
+      "Gölbaşı",
+      "Samsat",
+      "Sincik",
+      "Tut"
+    ]
+  },
+  {
+    "il": "Afyonkarahisar",
+    "ilceler": [
+      "Merkez",
+      "Bolvadin",
+      "Çay",
+      "Dinar",
+      "Emirdağ",
+      "Sandıklı",
+      "Sinanpaşa",
+      "Şuhut",
+      "İscehisar",
+      "Başmakçı",
+      "Bayat",
+      "Çobanlar",
+      "Evciler",
+      "Hocalar",
+      "İhsaniye",
+      "Kızılören",
+      "Sultandağı"
+    ]
+  },
+  {
+    "il": "Ağrı",
+    "ilceler": [
+      "Merkez",
+      "Diyadin",
+      "Doğubayazıt",
+      "Eleşkirt",
+      "Hamur",
+      "Patnos",
+      "Taşlıçay",
+      "Tutak"
+    ]
+  },
+  {
+    "il": "Amasya",
+    "ilceler": [
+      "Merkez",
+      "Göynücek",
+      "Gümüşhacıköy",
+      "Hamamözü",
+      "Merzifon",
+      "Suluova",
+      "Taşova"
+    ]
+  },
+  {
+    "il": "Ankara",
+    "ilceler": [
+      "Altındağ",
+      "Ayaş",
+      "Bala",
+      "Beypazarı",
+      "Çamlıdere",
+      "Çankaya",
+      "Çubuk",
+      "Elmadağ",
+      "Etimesgut",
+      "Evren",
+      "Gölbaşı",
+      "Güdül",
+      "Haymana",
+      "Kalecik",
+      "Kahramankazan",
+      "Keçiören",
+      "Kızılcahamam",
+      "Mamak",
+      "Nallıhan",
+      "Polatlı",
+      "Pursaklar",
+      "Sincan",
+      "Şereflikoçhisar",
+      "Yenimahalle",
+      "Akyurt"
+    ]
+  },
+  {
+    "il": "Antalya",
+    "ilceler": [
+      "Aksu",
+      "Alanya",
+      "Demre",
+      "Döşemealtı",
+      "Elmalı",
+      "Finike",
+      "Gazipaşa",
+      "Gündoğmuş",
+      "İbradı",
+      "Kaş",
+      "Kemer",
+      "Kepez",
+      "Konyaaltı",
+      "Korkuteli",
+      "Kumluca",
+      "Manavgat",
+      "Muratpaşa",
+      "Serik",
+      "Akseki"
+    ]
+  }
+]
