@@ -132,5 +132,433 @@
       "Serik",
       "Akseki"
     ]
+  },
+  {
+    "il": "Aydın",
+    "ilceler": [
+      "Bozdoğan",
+      "Buharkent",
+      "Çine",
+      "Didim",
+      "Efeler",
+      "Germencik",
+      "İncirliova",
+      "Karacasu",
+      "Karpuzlu",
+      "Koçarlı",
+      "Köşk",
+      "Kuşadası",
+      "Kuyucak",
+      "Nazilli",
+      "Söke",
+      "Sultanhisar",
+      "Yenipazar"
+    ]
+  },
+  {
+    "il": "Balıkesir",
+    "ilceler": [
+      "Altıeylül",
+      "Ayvalık",
+      "Balya",
+      "Bandırma",
+      "Bigadiç",
+      "Burhaniye",
+      "Dursunbey",
+      "Edremit",
+      "Erdek",
+      "Gömeç",
+      "Gönen",
+      "Havran",
+      "İvrindi",
+      "Karesi",
+      "Kepsut",
+      "Manyas",
+      "Marmara",
+      "Savaştepe",
+      "Sındırgı",
+      "Susurluk"
+    ]
+  },
+  {
+    "il": "Bilecik",
+    "ilceler": [
+      "Bozüyük",
+      "Gölpazarı",
+      "İnhisar",
+      "Merkez",
+      "Osmaneli",
+      "Pazaryeri",
+      "Söğüt",
+      "Yenipazar"
+    ]
+  },
+  {
+    "il": "Bingöl",
+    "ilceler": [
+      "Adaklı",
+      "Genç",
+      "Karlıova",
+      "Kiğı",
+      "Merkez",
+      "Solhan",
+      "Yayladere",
+      "Yedisu"
+    ]
+  },
+  {
+    "il": "Bitlis",
+    "ilceler": [
+      "Adilcevaz",
+      "Ahlat",
+      "Güroymak",
+      "Hizan",
+      "Merkez",
+      "Mutki",
+      "Tatvan"
+    ]
+  },
+  {
+    "il": "Bolu",
+    "ilceler": [
+      "Dörtdivan",
+      "Gerede",
+      "Göynük",
+      "Kıbrıscık",
+      "Mengen",
+      "Merkez",
+      "Mudurnu",
+      "Seben",
+      "Yeniçağa"
+    ]
+  },
+  {
+    "il": "Burdur",
+    "ilceler": [
+      "Ağlasun",
+      "Altınyayla",
+      "Bucak",
+      "Çavdır",
+      "Çeltikçi",
+      "Gölhisar",
+      "Karamanlı",
+      "Kemer",
+      "Merkez",
+      "Tefenni",
+      "Yeşilova"
+    ]
+  },
+  {
+    "il": "Bursa",
+    "ilceler": [
+      "Büyükorhan",
+      "Gemlik",
+      "Gürsu",
+      "Harmancık",
+      "İnegöl",
+      "İznik",
+      "Karacabey",
+      "Keles",
+      "Kestel",
+      "Mudanya",
+      "Mustafakemalpaşa",
+      "Nilüfer",
+      "Orhaneli",
+      "Orhangazi",
+      "Osmangazi",
+      "Yenişehir",
+      "Yıldırım"
+    ]
+  },
+  {
+    "il": "Çanakkale",
+    "ilceler": [
+      "Ayvacık",
+      "Bayramiç",
+      "Biga",
+      "Bozcaada",
+      "Çan",
+      "Eceabat",
+      "Ezine",
+      "Gelibolu",
+      "Gökçeada",
+      "Lapseki",
+      "Merkez",
+      "Yenice"
+    ]
+  },
+  {
+    "il": "Çankırı",
+    "ilceler": [
+      "Atkaracalar",
+      "Bayramören",
+      "Çerkeş",
+      "Eldivan",
+      "Ilgaz",
+      "Kızılırmak",
+      "Korgun",
+      "Kurşunlu",
+      "Merkez",
+      "Orta",
+      "Şabanözü",
+      "Yapraklı"
+    ]
+  },
+  {
+    "il": "Çorum",
+    "ilceler": [
+      "Alaca",
+      "Bayat",
+      "Boğazkale",
+      "Dodurga",
+      "İskilip",
+      "Kargı",
+      "Laçin",
+      "Mecitözü",
+      "Merkez",
+      "Oğuzlar",
+      "Ortaköy",
+      "Osmancık",
+      "Sungurlu",
+      "Uğurludağ"
+    ]
+  },
+  {
+    "il": "Denizli",
+    "ilceler": [
+      "Acıpayam",
+      "Babadağ",
+      "Baklan",
+      "Bekilli",
+      "Beyağaç",
+      "Bozkurt",
+      "Buldan",
+      "Çal",
+      "Çameli",
+      "Çardak",
+      "Çivril",
+      "Güney",
+      "Honaz",
+      "Kale",
+      "Merkezefendi",
+      "Pamukkale",
+      "Sarayköy",
+      "Serinhisar",
+      "Tavas"
+    ]
+  },
+  {
+    "il": "Diyarbakır",
+    "ilceler": [
+      "Bağlar",
+      "Bismil",
+      "Çermik",
+      "Çınar",
+      "Çüngüş",
+      "Dicle",
+      "Eğil",
+      "Ergani",
+      "Hani",
+      "Hazro",
+      "Kayapınar",
+      "Kocaköy",
+      "Kulp",
+      "Lice",
+      "Silvan",
+      "Sur",
+      "Yenişehir"
+    ]
+  },
+  {
+    "il": "Edirne",
+    "ilceler": [
+      "Enez",
+      "Havsa",
+      "İpsala",
+      "Keşan",
+      "Lalapaşa",
+      "Meriç",
+      "Merkez",
+      "Süloğlu",
+      "Uzunköprü"
+    ]
+  },
+  {
+    "il": "Elazığ",
+    "ilceler": [
+      "Ağın",
+      "Alacakaya",
+      "Arıcak",
+      "Baskil",
+      "Karakoçan",
+      "Keban",
+      "Kovancılar",
+      "Maden",
+      "Merkez",
+      "Palu",
+      "Sivrice"
+    ]
+  },
+  {
+    "il": "Erzincan",
+    "ilceler": [
+      "Çayırlı",
+      "İliç",
+      "Kemah",
+      "Kemaliye",
+      "Merkez",
+      "Otlukbeli",
+      "Refahiye",
+      "Tercan",
+      "Üzümlü"
+    ]
+  },
+  {
+    "il": "Erzurum",
+    "ilceler": [
+      "Aşkale",
+      "Aziziye",
+      "Çat",
+      "Hınıs",
+      "Horasan",
+      "İspir",
+      "Karaçoban",
+      "Karayazı",
+      "Köprüköy",
+      "Narman",
+      "Oltu",
+      "Olur",
+      "Palandöken",
+      "Pasinler",
+      "Pazaryolu",
+      "Şenkaya",
+      "Tekman",
+      "Tortum",
+      "Uzundere",
+      "Yakutiye"
+    ]
+  },
+  {
+    "il": "Eskişehir",
+    "ilceler": [
+      "Alpu",
+      "Beylikova",
+      "Çifteler",
+      "Günyüzü",
+      "Han",
+      "İnönü",
+      "Mahmudiye",
+      "Mihalgazi",
+      "Mihalıççık",
+      "Odunpazarı",
+      "Sarıcakaya",
+      "Seyitgazi",
+      "Sivrihisar",
+      "Tepebaşı"
+    ]
+  },
+  {
+    "il": "Gaziantep",
+    "ilceler": [
+      "Araban",
+      "İslahiye",
+      "Karkamış",
+      "Nizip",
+      "Nurdağı",
+      "Oğuzeli",
+      "Şahinbey",
+      "Şehitkamil",
+      "Yavuzeli"
+    ]
+  },
+  {
+    "il": "Giresun",
+    "ilceler": [
+      "Alucra",
+      "Bulancak",
+      "Çamoluk",
+      "Çanakçı",
+      "Dereli",
+      "Doğankent",
+      "Espiye",
+      "Eynesil",
+      "Görele",
+      "Güce",
+      "Keşap",
+      "Merkez",
+      "Piraziz",
+      "Şebinkarahisar",
+      "Tirebolu",
+      "Yağlıdere"
+    ]
+  },
+  {
+    "il": "Gümüşhane",
+    "ilceler": [
+      "Kelkit",
+      "Köse",
+      "Kürtün",
+      "Merkez",
+      "Şiran",
+      "Torul"
+    ]
+  },
+  {
+    "il": "Hakkâri",
+    "ilceler": [
+      "Çukurca",
+      "Derecik",
+      "Merkez",
+      "Şemdinli",
+      "Yüksekova"
+    ]
+  },
+  {
+    "il": "Hatay",
+    "ilceler": [
+      "Altınözü",
+      "Antakya",
+      "Arsuz",
+      "Belen",
+      "Defne",
+      "Dörtyol",
+      "Erzin",
+      "Hassa",
+      "İskenderun",
+      "Kırıkhan",
+      "Kumlu",
+      "Payas",
+      "Reyhanlı",
+      "Samandağ",
+      "Yayladağı"
+    ]
+  },
+  {
+    "il": "Iğdır",
+    "ilceler": [
+      "Aralık",
+      "Karakoyunlu",
+      "Merkez",
+      "Tuzluca"
+    ]
+  },
+  {
+    "il": "Isparta",
+    "ilceler": [
+      "Aksu",
+      "Atabey",
+      "Eğirdir",
+      "Gelendost",
+      "Gönen",
+      "Keçiborlu",
+      "Merkez",
+      "Senirkent",
+      "Sütçüler",
+      "Şarkikaraağaç",
+      "Uluborlu",
+      "Yalvaç",
+      "Yenişarbademli"
+    ]
   }
 ]
+
