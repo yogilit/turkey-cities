@@ -1,0 +1,118 @@
+[
+  {
+    "marka": "Fiat",
+    "modeller": ["Egea", "Doblo", "Fiorino", "500"]
+  },
+  {
+    "marka": "Renault",
+    "modeller": ["Clio", "Megane", "Captur", "Kadjar", "Duster"]
+  },
+  {
+    "marka": "Volkswagen",
+    "modeller": ["Polo", "Golf", "Passat", "T-Roc", "Tiguan", "Touareg"]
+  },
+  {
+    "marka": "Peugeot",
+    "modeller": ["208", "308", "3008", "5008", "Rifter"]
+  },
+  {
+    "marka": "Opel",
+    "modeller": ["Corsa", "Astra", "Mokka", "Grandland"]
+  },
+  {
+    "marka": "Ford",
+    "modeller": ["Fiesta", "Focus", "Puma", "Kuga", "EcoSport", "Ranger"]
+  },
+  {
+    "marka": "Toyota",
+    "modeller": ["Corolla", "C-HR", "Yaris", "RAV4", "Hilux"]
+  },
+  {
+    "marka": "Hyundai",
+    "modeller": ["i10", "i20", "Bayon", "Kona", "Tucson", "Staria"]
+  },
+  {
+    "marka": "Honda",
+    "modeller": ["Civic", "CR-V", "HR-V", "Jazz", "Pilot"]
+  },
+  {
+    "marka": "BMW",
+    "modeller": ["1 Serisi", "3 Serisi", "5 Serisi", "X1", "X3", "X5", "X6", "X7"]
+  },
+  {
+    "marka": "Mercedes-Benz",
+    "modeller": ["A Serisi", "B Serisi", "C Serisi", "E Serisi", "S Serisi", "GLA", "GLB", "GLC", "GLE", "GLS", "G-Class"]
+  },
+  {
+    "marka": "Audi",
+    "modeller": ["A1", "A3", "A4", "A5", "A6", "A7", "A8", "Q2", "Q3", "Q5", "Q7", "Q8", "Q5 Sportback", "Q7 Sportback"]
+  },
+  {
+    "marka": "Volvo",
+    "modeller": ["XC40", "XC60", "XC90", "S60", "S90", "V60"]
+  },
+  {
+    "marka": "Land Rover",
+    "modeller": ["Defender", "Discovery", "Range Rover", "Range Rover Sport", "Range Rover Velar", "Range Rover Evoque"]
+  },
+  {
+    "marka": "Jaguar",
+    "modeller": ["XE", "XF", "XJ", "F-Pace", "E-Pace", "I-Pace"]
+  },
+  {
+    "marka": "Alfa Romeo",
+    "modeller": ["Giulia", "Stelvio", "Tonale"]
+  },
+  {
+    "marka": "Mitsubishi",
+    "modeller": ["ASX", "Outlander", "L200"]
+  },
+  {
+    "marka": "Mazda",
+    "modeller": ["2", "3", "CX-3", "CX-30", "CX-5", "MX-30"]
+  },
+  {
+    "marka": "Nissan",
+    "modeller": ["Micra", "Qashqai", "X-Trail", "Juke", "Navara"]
+  },
+  {
+    "marka": "Suzuki",
+    "modeller": ["Swift", "Vitara", "S-Cross", "Jimny"]
+  },
+  {
+    "marka": "Citroën",
+    "modeller": ["C3", "C4", "C5 Aircross", "Berlingo"]
+  },
+  {
+    "marka": "Dacia",
+    "modeller": ["Sandero", "Logan", "Duster"]
+  },
+  {
+    "marka": "DS Automobiles",
+    "modeller": ["DS3", "DS4", "DS7 Crossback"]
+  },
+  {
+    "marka": "Isuzu",
+    "modeller": ["D-Max", "NPR"]
+  },
+  {
+    "marka": "Subaru",
+    "modeller": ["Impreza", "XV", "Forester", "Outback"]
+  },
+  {
+    "marka": "Tesla",
+    "modeller": ["Model 3", "Model S", "Model X", "Model Y"]
+  },
+  {
+    "marka": "BYD",
+    "modeller": ["Tang EV", "Atto 3", "Seal EV"]
+  },
+  {
+    "marka": "Chery",
+    "modeller": ["Tiggo 4", "Tiggo 7 Pro", "Tiggo 8 Pro"]
+  },
+  {
+    "marka": "TOGG",
+    "modeller": ["C-SUV", "C-Sedan (planlanan)"]
+  }
+]
